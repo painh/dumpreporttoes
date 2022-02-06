@@ -4,3 +4,6 @@ scratches
 .venv
 config.yml
 DumpReport.html
+extra.json
+build
+*.spec

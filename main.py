@@ -53,7 +53,7 @@ def main(report_html_filename, extra_data):
 
 if __name__ == '__main__':
     if len(sys.argv) < 3:
-        print("using python dumpreporttoes <report_html_filename> <extra_data_filename")
+        print("using python dumpreporttoes <report_html_filename> <extra_data_filename>")
         exit(1)
 
     argument = sys.argv
