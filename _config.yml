@@ -1,0 +1,4 @@
+ES_URL: http://localhost:9200
+ES_ID: elastic
+ES_PW: changeme
+ES_INDEX: dump-report
